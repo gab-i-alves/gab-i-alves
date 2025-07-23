@@ -53,14 +53,6 @@
   <img src="https://skillicons.dev/icons?i=bash" height="30" alt="bash logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=angular" height="30" alt="angularjs logo"  />
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/gab-i-alves/gab-i-alves/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <div align="left">
